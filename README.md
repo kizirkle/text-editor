@@ -40,8 +40,7 @@ There is no way to test this application at this time. Sorry!
 
 ## Link
 
-https://tranquil-harbor-22485-1cfbb11e8775.herokuapp.com
-    
+https://text-editor-certificate-9a185cbc6abb.herokuapp.com/    
 ## Questions
 
 Have any questions? This is how to contact me:
